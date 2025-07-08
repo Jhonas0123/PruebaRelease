@@ -1,0 +1,7 @@
+README.md
+setup.py
+PruebaRelease/__init__.py
+pruebarelease.egg-info/PKG-INFO
+pruebarelease.egg-info/SOURCES.txt
+pruebarelease.egg-info/dependency_links.txt
+pruebarelease.egg-info/top_level.txt
